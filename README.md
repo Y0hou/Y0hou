@@ -1,5 +1,5 @@
 ## Hello!! I'm Nícolas Martins 👋
-##
+
 <div align="center">
   <a href="https://github.com/Y0hou">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Y0hou&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -13,6 +13,7 @@
   <img align="center" alt="Sousa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Sousa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Sousa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  <img align="right" alt="Sousa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/751563837676978236/1029425756805283840/bdb676999f2be7140bc96a4e50a584b8.gif">
 </div>
 
 ##
